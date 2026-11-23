@@ -1,0 +1,7 @@
+id = "graphite-terminal-theme"
+name = "Graphite Terminal"
+version = "0.1.0"
+schema_version = 1
+authors = ["oceanzove"]
+description = "A dark retro-terminal theme with warm text, graphite panels, and muted blue selections."
+repository = "https://github.com/oceanzove/zed-graphite-terminal"
